@@ -716,5 +716,5 @@
 .small_product_box img {
   position: absolute;
   right: 30px;
-  top: 55px;
+  bottom: 15px;
 }
