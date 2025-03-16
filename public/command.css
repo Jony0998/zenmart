@@ -513,3 +513,36 @@ p {
   font-weight: 400;
   line-height: 40px;
 }
+
+/*ROUTER*/
+
+.shop_page .page_router {
+  margin: 21px 0px;
+  width: 1320px;
+  height: 22px;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.page_router span {
+  margin: 0px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  color: rgb(4, 30, 66);
+  font-family: var(--font);
+  font-size: 17pxpx;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.page_router span:active {
+  color: rgb(4, 30, 66);
+  font-family: var(--font);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+}
